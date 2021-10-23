@@ -40,7 +40,14 @@ body {
 
 .letters-bg{
     margin: 20px;
+    color: rgb(48, 48, 48);
 }
+
+.letters-bg a{
+    
+    color: rgb(48, 48, 48);
+}
+
 #navigation{
     margin-bottom: 20px;
 }
@@ -143,4 +150,34 @@ a{
 
 .big-letter{
     color: rgb(48, 48, 48);
+}
+
+.ofa_button{
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 200px;
+    }
+    
+
+.ofa_button:hover, .ofa_button:focus {
+
+            -ms-transform: scale(1.2); /* IE  */
+            -webkit-transform: scle(1.2); /* Safari */
+            transform: scale(1.2); 
+    }
+
+.schwein{
+    margin-bottom: -220px;
+    margin-top: -50px;
+}
+
+.zombie{
+    margin-bottom: -60px;
+}
+
+.dorfbewohner{
+    margin-bottom: 200px;
 }
