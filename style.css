@@ -1,0 +1,385 @@
+.logo{
+    size: 50%;
+    margin-top: 16px;
+}
+
+
+#top{
+text-align: center;
+
+}
+
+h2{
+    color: rgb(48, 48, 48);
+}
+
+#logo-name {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 16px;
+    color: rgb(48, 48, 48);
+    margin-bottom: 30px;
+}
+body {
+        font-family: Verdana;
+        margin: 0;
+        padding: 0;
+        color: #ffffff;
+        background-color: #ffffff;
+        background-size: 100%;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    h3{
+        color: rgb(48, 48, 48);
+    }
+    
+    
+#navigation a{
+    color: rgb(48, 48, 48);
+    padding: 8px;
+    text-decoration: unset;
+}
+
+.letters-bg{
+    margin: 20px;
+    color: rgb(48, 48, 48);
+}
+
+.letters-bg a{
+    
+    color: rgb(48, 48, 48);
+}
+
+#navigation{
+    margin-bottom: 20px;
+}
+#image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+
+#main{
+    
+    margin: auto;
+}
+
+
+#footer{
+    text-align: center;
+    color: rgb(48, 48, 48);
+    margin-bottom: 20px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    
+    
+    
+
+}
+
+#YouTube{
+    margin-top: 16px;
+}
+
+
+#YouTube1{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+
+.Kanäle{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    border-radius: 7px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 08);
+    margin-top: 16px;
+    margin: 8px;
+    padding: 10px;
+}
+
+.Kanäle p{
+    color: rgb(48, 48, 48);
+}
+
+.Rahmen{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    border-radius: 7px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 08);
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+p{
+    color: rgb(48, 48, 48);
+}
+
+
+
+.übermich{
+    
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    border-radius: 7px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 08);
+    margin-top: 16px;
+    margin: 8px;
+    margin: center;
+}
+
+
+a{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: unset;
+
+}
+.letters-bg a:hover{
+    background-color: #cccccc;
+    padding: 10px;
+}
+
+.text{
+    margin: center;
+    
+}
+
+#about-us{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.big-letter{
+    color: rgb(48, 48, 48);
+}
+
+.ofa_button{
+    
+    transition: transform .2s;
+    width: 33%;
+    float: left;
+    }
+    
+
+.ofa_button:hover, .ofa_button:focus {
+
+            -ms-transform: scale(1.1); /* IE  */
+            -webkit-transform: scle(1.1); /* Safari */
+            transform: scale(1.1); 
+    }
+
+.schwein{
+    margin-bottom: -220px;
+    margin-top: -5px;
+}
+
+.zombie{
+    margin-bottom: -60px;
+}
+
+.dorfbewohner{
+    margin-bottom: 200px;
+}
+
+.kugelfisch{
+    margin-top: -100px;
+}
+
+.ofa_button2
+    {
+    
+        color: rgb(48, 48, 48);
+        padding: 8px;
+        text-decoration: unset;
+    border: none; /* Rahmen */
+    padding: 10px; /* Innenabstand */
+    text-align: center; /* Ausrichtung Text */
+    font-size: 16px; /* Schriftgröße */
+    transition: background-color 0.4s; /* Animierte Änderung der Eigenschaft background-color */
+    }
+
+.ofa_button2:hover /* Eigenschaften beim Überfahren mit der Maus */
+    {
+    background-color: #ececec; /* Neue Farbe */
+    }
+
+.auswahl2{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.ofa_button3:hover, .ofa_button3:focus{
+    -ms-transform: scale(1.1); /* IE  */
+    -webkit-transform: scle(1.1); /* Safari */
+    transform: scale(1.1); 
+}
+
+.ofa_button3{
+    
+    transition: transform .2s;
+    margin: auto;
+    width: 33%;
+    margin-top: 60px;
+    float: left;
+    
+    }
+
+    .ofa_button4{
+        transition: transform .2s;
+        width: 33%;
+        float: left;
+        }
+
+
+
+        .ofa_button4:hover, .ofa_button4:focus{
+            -ms-transform: scale(1.1); /* IE  */
+            -webkit-transform: scle(1.1); /* Safari */
+            transform: scale(1.1); 
+        }
+
+        .box {
+            float: left;
+            width: 25%;
+           }
+
+.ValorantBilder{
+    float: left;
+    margin-right: 200px;
+    margin-left: 300px;
+    margin-bottom: 1500px;
+    
+}
+
+.ofa_button5{
+    
+    transition: transform .2s;
+    
+    
+    width: 20%;
+    margin-top: 60px;
+}
+
+
+.ofa_button5:hover, .ofa_button5:focus{
+    -ms-transform: scale(1.1); /* IE  */
+    -webkit-transform: scle(1.1); /* Safari */
+    transform: scale(1.1); 
+}
+
+.ValorantRolle{
+    margin-right: 20px;
+}
+
+h4{
+    color: rgb(48, 48, 48);
+}
+
+.border{
+    width: 10%;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    border-radius: 7px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 08);
+    
+    float: left;
+}
+
+.ValorantInfos{
+    float: left;
+}
+
+.ValorantInfos2{
+    float: left;
+    width: 33%;
+}
+
+.border2{
+    width: 40%;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    border-radius: 7px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 08);
+    
+    
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    padding: 10px;
+}
+
+.ValorantUltimate{
+    width: 20%;
+}
+
+
+
+  
+  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+  .sticky + .content {
+    padding-top: 60px;
+  }
+
+  /* Style the navbar */
+#navigation {
+    overflow: hidden;
+    text-align: center;
+    color: rgb(48, 48, 48);
+    padding: 8px;
+    text-decoration: unset;
+    
+    margin-bottom: 20px;
+    width: 100%;
+    
+    left: 0;
+    
+  }
+
+  #navigation a{
+    overflow: hidden;
+    text-align: center;
+    color: rgb(48, 48, 48);
+    padding: 8px;
+    text-decoration: unset;
+    text-align: center;
+  }
+  
+
+  
+  /* Page content */
+  .content {
+    padding: 16px;
+  }
+  
+  /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+  .sticky {
+    overflow: hidden;
+    text-align: center;
+    color: rgb(48, 48, 48);
+    padding: 8px;
+    text-decoration: unset;
+    background-color: rgb(214, 214, 214);
+    margin-bottom: 20px;
+    position: fixed;
+    top: 0;
+  }
+  
+  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+  .sticky + .content {
+    padding-top: 60px;
+  }
